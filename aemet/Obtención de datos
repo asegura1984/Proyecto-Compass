@@ -12,4 +12,13 @@ Vuelve a https://opendata.aemet.es/centrodedescargas/inicio y haz click en "Entr
 
 Introduce la clave API y obtén los datos que desees.
 
-Al hacer click en "Obtener", serás enviado a un link en el que te darán un link a los datos y metadatos deseados.
+Al hacer click en "Obtener", serás enviado a un link en el que te darán un link a los datos y a los metadatos deseados.
+
+Ejemplo (Datos de Observación. Último Elaborado --> Cantabria --> 1109X - Santander Aeropuerto): 
+https://opendata.aemet.es/opendata/api/observacion/convencional/datos/estacion/1109X/?api_key=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhc2VndXJhZzAxQGVkdWNhbnRhYnJpYS5lcyIsImp0aSI6IjdlYzQ3MzkxLWMzZGQtNGE1My04NDU4LWQ0ZDQzYTJhYzdhYyIsImlzcyI6IkFFTUVUIiwiaWF0IjoxNjY5MzY4NjQ3LCJ1c2VySWQiOiI3ZWM0NzM5MS1jM2RkLTRhNTMtODQ1OC1kNGQ0M2EyYWM3YWMiLCJyb2xlIjoiIn0.fzA5EfOJCPF6ExvFN2Ji1bHusYaMjDvLKkwlmB_nHjM
+
+Link a los datos:
+https://opendata.aemet.es/opendata/sh/b8472440
+
+Link a los metadatos: 
+https://opendata.aemet.es/opendata/sh/55c2971b
