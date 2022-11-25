@@ -1,0 +1,15 @@
+Primero se va a la siguiente dirección web:
+https://opendata.aemet.es/centrodedescargas/inicio 
+
+Se hace click en Obtención de API Key y se utiliza un correo con el que se quiera obtener una API Key:
+https://opendata.aemet.es/centrodedescargas/obtencionAPIKey
+
+Al recibir un correo de opendata_apikey@aemet.es en el que se te pregunta si has pedido la generación de una clave API, haz click en "Confirmar generación API Key", y espera a recibir otro correo de la misma dirección de correo electrónico.
+
+El otro correo electrónico contendrá una clave API Key.
+
+Vuelve a https://opendata.aemet.es/centrodedescargas/inicio y haz click en "Entrar" en el apartado "Acceso General".
+
+Introduce la clave API y obtén los datos que desees.
+
+
